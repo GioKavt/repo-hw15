@@ -1,0 +1,28 @@
+body {
+  background-color: #fefae0;
+}
+
+table,
+td,
+th {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+thead {
+  font-size: 18px;
+  background-color: lightgrey;
+}
+
+tfoot {
+  background-color: lightgrey;
+}
+
+tbody {
+  background-color: white;
+  font-style: italic;
+}
+
+td {
+  padding: 10px;
+}
